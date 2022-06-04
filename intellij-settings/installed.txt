@@ -1,0 +1,10 @@
+Key Promoter X
+awesome.console
+com.github.iguissouma.nxconsole
+com.mallowigi
+com.markskelton.one-dark-theme
+com.samdark.intellij-visual-studio-code-dark-plus
+intellij.prettierJS
+krasa.CpuUsageIndicator
+mdx.js
+org.jetbrains.kotlin
